@@ -1,0 +1,9 @@
+IMAGE_NAME = yunohost
+IMAGE_VERSION = latest
+IMAGE_VERSION_ALIASES =	3.6
+IMAGE_TITLE = YunoHost
+IMAGE_DESCRIPTION = YunoHost
+IMAGE_DOC_URL = https://github.com/HugoPoi/scaleway-yunohost
+IMAGE_SOURCE_URL = https://github.com/HugoPoi/scaleway-yunohost
+IMAGE_VENDOR_URL = https://yunohost.org
+IMAGE_BOOTSCRIPT = mainline 4.9
