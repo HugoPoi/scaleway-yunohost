@@ -1,11 +1,11 @@
 # YunoHost image on Scaleway
 
 [![Scaleway ImageHub](https://img.shields.io/badge/ImageHub-view-ff69b4.svg)](https://hub.scaleway.com/yunohost.html)
-[![Run on Scaleway](https://img.shields.io/badge/Scaleway-run-69b4ff.svg)](https://cloud.scaleway.com/#/servers/new?image=011a40c8-f157-41ab-a015-e69913b9669c)
+[![Run on Scaleway](https://img.shields.io/badge/Scaleway-run-69b4ff.svg)](https://cloud.scaleway.com/#/servers/new?image=d4b73383-4f82-4e35-8dfd-477cd2d79062)
 
 Launch YunoHost on Scaleway servers in minutes.
 
-**WORK IN PROGRESS**
+**WORK IN PROGRESS** => WORKING NOW !
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Yunohost_roundcorder.png" width="400px" />
 
